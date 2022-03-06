@@ -3,12 +3,17 @@
     font-size: 10px;
 }
 body {
-    background-color: aqua;
+    background-color: rgb(107, 29, 29);
 }
 main {
-    background-color: aliceblue;
+    background-color: rgb(248, 239, 239);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px;
+}
+
+img.lado {
+    float: right;
+    width: 500px;
 }
